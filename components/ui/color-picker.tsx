@@ -25,7 +25,7 @@ export default function ColorPicker() {
             backgroundPosition: 'center'
         }}
         >
-            <Card className="w-90 max-w-md mx-auto p-8 grid gap-8 border-2 border-gray-500 rounded-xl shadow-2xl  bg-gradient-to-br from-red-300 via-orange-300 to-yellow-300">
+            <Card className="w-90 max-w-md mx-auto p-8 grid gap-8 border-2 border-gray-500 rounded-xl shadow-2xl  bg-gradient-to-br from-red-300 via-orange-300 to-yellow-200">
                 <div className="text-center space-y-2">
                     <CardTitle>Color Picker</CardTitle>
                     <CardDescription>
